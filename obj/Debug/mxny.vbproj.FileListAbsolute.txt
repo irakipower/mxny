@@ -1,0 +1,10 @@
+C:\Users\kathr\Desktop\mxny\mxny\bin\Debug\mxny.exe.config
+C:\Users\kathr\Desktop\mxny\mxny\bin\Debug\mxny.exe
+C:\Users\kathr\Desktop\mxny\mxny\bin\Debug\mxny.pdb
+C:\Users\kathr\Desktop\mxny\mxny\bin\Debug\mxny.xml
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.Resources.resources
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.vbproj.GenerateResource.Cache
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.exe
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.xml
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.pdb
+C:\Users\kathr\Desktop\mxny\mxny\obj\Debug\mxny.MainForm.resources
